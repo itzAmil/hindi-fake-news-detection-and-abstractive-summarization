@@ -8,7 +8,7 @@ It uses a BERT-based model to classify news as real or fake, explains its predic
 
 ## 🚀 Features
 
--  Fake News Detection using fine-tuned BERT (Multilingual BERT or IndicBERT)
+-  Fake News Detection using fine-tuned **BERT**
 -  Real-time prediction: Real or Fake
 -  Model Explainability using **LIME**
 -  Abstractive Summarization using **T5 Transformer**
