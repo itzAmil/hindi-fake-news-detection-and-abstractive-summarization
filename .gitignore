@@ -22,6 +22,4 @@ env/
 # Log files
 *.log
 
-# Data cache
-*.csv
-!data/*.csv  # allow datasets in data folder
+
