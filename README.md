@@ -1,8 +1,8 @@
-# 📰 Fake News Detection and Abstractive Summarization (Hindi)
+# 📰  Hindi Fake News Detection and Abstractive Summarization
 
 This project integrates **Fake News Detection**, **Explainability**, and **Abstractive Summarization** for **Hindi news articles**.
 
-It uses a BERT-based model to classify news as real or fake, explains its predictions using **LIME**, and generates a summary of the news article using the **T5 model** — all in one seamless pipeline.
+It uses **BERT** model to classify news as real or fake, explains its predictions using **LIME**, and generates a summary of the news article using the **T5 model** — all in one seamless pipeline.
 
 ---
 
@@ -13,7 +13,7 @@ It uses a BERT-based model to classify news as real or fake, explains its predic
 -  Model Explainability using **LIME**
 -  Abstractive Summarization using **T5 Transformer**
 -  Streamlit-based interactive UI
--  Supports Hindi language inputs (Devanagari script)
+-  Supports Hindi language inputs 
 
 ---
 
@@ -56,7 +56,7 @@ It uses a BERT-based model to classify news as real or fake, explains its predic
 
 ---
 
-### 👥 Contributors
+## 👥 Contributors
 
 This project was originally developed as part of a group academic project.
 
@@ -70,7 +70,7 @@ This project was originally developed as part of a group academic project.
 
 ---
 
-### 📄 License
+## 📄 License
 
 This project is open-source under the MIT License.  
 You are free to use, modify, and distribute it with proper credit.
