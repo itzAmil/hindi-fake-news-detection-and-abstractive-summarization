@@ -50,7 +50,7 @@ It uses **BERT** model to classify news as real or fake, explains its prediction
 
 ## 🚦 How It Works
 
-1. User pastes a **Hindi news article** into the Streamlit app.
+1. User pastes a **Hindi news article** into the Streamlit UI.
 2. The article is passed to a **fine-tuned BERT model** for classification.
 3. If classified as real/fake, **LIME** explains the prediction via token-level highlights.
 4. In parallel, a **T5 model** generates a **concise summary** of the article.
