@@ -38,11 +38,12 @@ It uses **BERT** model to classify news as real or fake, explains its prediction
 ## 🧰 Tech Stack
 
 - Python 3.13
-- HuggingFace Transformers
+- BERT (Classification)
 - scikit-learn
 - LIME (Explainability)
 - PyTorch
 - Pandas, NumPy
+- T5 (Summarization)
 - Streamlit (UI)
 
 ---
