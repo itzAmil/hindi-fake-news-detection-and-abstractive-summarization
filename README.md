@@ -73,10 +73,10 @@ This project was originally developed as part of a group academic project.
 
 ## 📄 License
 
-This project is open-source under the MIT License.  
+This project is open-source under the **MIT License**.  
 You are free to use, modify, and distribute it with proper credit.
 
-See the [LICENSE] file for full details.
+See the [LICENSE](LICENSE) file for full details.
 
 ---
 
