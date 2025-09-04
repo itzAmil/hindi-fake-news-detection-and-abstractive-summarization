@@ -1,4 +1,4 @@
-# 📰  Hindi Fake News Detection and Abstractive Summarization
+# Hindi Fake News Detection and Abstractive Summarization
 
 This project integrates **Fake News Detection**, **Explainability**, and **Abstractive Summarization** for **Hindi news articles**.
 
@@ -6,7 +6,7 @@ It uses **BERT** model to classify news as real or fake, explains its prediction
 
 ---
 
-## 🚀 Features
+## Features
 
 -  Fake News Detection using fine-tuned **BERT**
 -  Real-time prediction: Real or Fake
@@ -17,7 +17,7 @@ It uses **BERT** model to classify news as real or fake, explains its prediction
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 |         Task           |     Model      |
 |------------------------|----------------|
@@ -27,7 +27,7 @@ It uses **BERT** model to classify news as real or fake, explains its prediction
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Fake News Detection**: Custom Hindi dataset (balanced) containing real/fake labels
 - **Summarization**: Hindi news article samples for training/testing the T5 model
@@ -35,7 +35,7 @@ It uses **BERT** model to classify news as real or fake, explains its prediction
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Python 3.13
 - BERT (Classification)
@@ -48,7 +48,7 @@ It uses **BERT** model to classify news as real or fake, explains its prediction
 
 ---
 
-## 🚦 How It Works
+## How It Works
 
 1. User pastes a **Hindi news article** into the Streamlit UI.
 2. The article is passed to a **fine-tuned BERT model** for classification.
@@ -57,7 +57,7 @@ It uses **BERT** model to classify news as real or fake, explains its prediction
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 This project was originally developed as part of a group academic project.
 
@@ -71,7 +71,7 @@ This project was originally developed as part of a group academic project.
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source under the **MIT License**.  
 You are free to use, modify, and distribute it with proper credit.
